@@ -1,0 +1,9 @@
+20241226010652,26-12-2024 01:06,adesh,adeshB,4567891230,adeshb@gmail.com,F,North,West,45,135,Card
+20241226160006,26-12-2024 16:00,John,user,9876543210,john@example.com,M,North,East,20,60,Card
+20241228130513,28-12-2024 13:05,John,user,9876543210,john@example.com,M,north,west,45,135,UPI
+20241228180541,28-12-2024 18:05,pranav,pranav,7894561230,asdfkw,M,west,east,25,75,CASH
+20241229234353,29-12-2024 23:43,John,user,9876543210,john@example.com,M,north,south,75,225,CARD
+20241230104740,30-12-2024 10:47,John,user,9876543210,john@example.com,M,north,central,10,30,UPI
+20241230110352,30-12-2024 11:03,John,user,9876543210,john@example.com,M,central,west,55,165,CASH
+20241230120858,30-12-2024 12:08,John,user,9876543210,john@example.com,M,north,west,45,135,CARD
+20250704234500,04-07-2025 23:45,John,user,9876543210,john@example.com,M,kempegowda airport,hebbal,8,24,CASH

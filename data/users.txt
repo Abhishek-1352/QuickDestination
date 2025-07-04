@@ -1,0 +1,9 @@
+user,1212,John,28,M,9876543210,john@example.com,pizza
+jane_smith,qwerty456,Jane,25,F,9876501234jane@example.com,pasta
+michael_brown,abcdef789,Michael,30,M,9876532109michael@example.com,sushi
+adeshB,12345,adesh,20,F,4567891230,adeshb@gmail.com,milk
+pranav,1234,pranav,20,M,7894561230,asdfkw,rice
+abhi,1245,abhishek,20,M,1234567890,asdg,food
+sakashi,123456,sakshi,19,F,1234567890,asdfgr,rice
+madhu,1212,Madhura,19,F,5484962105,Madhu@gmail.com,pizza
+abhi12,123,Abhishek,20,M,1234567890,asf@.com,rice

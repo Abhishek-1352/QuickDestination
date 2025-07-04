@@ -1,0 +1,136 @@
+Delhi,Agra,4,RedBus,300
+Delhi,Jaipur,6,SRS Travels,500
+Delhi,Chandigarh,5,KPN Travels,350
+Delhi,Lucknow,8,Volvo Bus Co.,600
+Delhi,Varanasi,10,Neelkanth Travels,750
+Delhi,Bhopal,12,Sharma Travels,800
+Delhi,Amritsar,8,Punjab Roadways,700
+Delhi,Shimla,7,Himachal Express,600
+Delhi,Haridwar,6,TravelXpress,400
+Delhi,Nainital,7,Explore India,550
+Delhi,Dehradun,6,Mountain Travels,450
+Delhi,Aligarh,3,FastBus,250
+Delhi,Meerut,3,Speedy Travels,200
+Delhi,Agra,4,AgraTours,320
+Delhi,Ajmer,9,Desert Ride,750
+Delhi,Gwalior,8,Madhya Pradesh Travels,650
+Delhi,Kanpur,9,Kanpur Roadways,700
+Delhi,Patiala,7,Patiala Bus Co.,550
+Delhi,Faridabad,2,CityLink,150
+Delhi,Gurgaon,1,Metro Bus,100
+Delhi,Noida,2,FastTrack,130
+Delhi,Sonepat,4,Green Express,220
+Delhi,Panipat,5,Golden Tours,270
+Delhi,Sonipat,4,SwiftRides,230
+Delhi,Bulandshahr,5,Speed Bus,300
+Delhi,Karnal,6,GoTravel,350
+Delhi,Mathura,4,Shree Travels,280
+Delhi,Muzaffarnagar,5,North Bus Services,320
+Delhi,Bahadurgarh,4,City Bus,270
+Delhi,Rewari,5,Rewari Travels,330
+Delhi,Bhiwadi,5,Skyline Travels,300
+Delhi,Patna,12,Bihar Roadways,900
+Delhi,Surat,15,Diamond Travels,1200
+Delhi,Pune,18,Shiv Shakti Travels,1400
+Delhi,Indore,10,MP Bus Co.,800
+Delhi,Chennai,20,Tamil Nadu Transport,1500
+Delhi,Kolkata,22,East Bengal Bus,1700
+Delhi,Goa,25,GoaExpress,2000
+Delhi,Kerala,24,Kerala Transport,2100
+Delhi,Bangalore,18,Karnataka Express,1600
+Delhi,Chandigarh,5,Chandigarh Bus Services,380
+Delhi,Bhopal,13,Bhopal Express,850
+Delhi,Jammu,12,Kashmir Roadways,950
+Delhi,Mussoorie,8,Himalayan Travels,700
+Delhi,Jodhpur,9,Rajasthan Travels,750
+Delhi,Udaipur,11,CityLink Udaipur,800
+Delhi,Kochi,26,South Bus Services,2200
+Delhi,Ludhiana,7,North Bus Co.,500
+Delhi,Nagpur,15,Maharashtra Travels,1300
+Delhi,Vadodara,14,Gujarat Travels,1150
+Delhi,Haridwar,6,HolyBus,420
+Delhi,Pondicherry,22,Coastal Tours,1900
+Delhi,Shillong,20,NorthEast Tours,1800
+Delhi,Lucknow,8,UP Bus Services,600
+Delhi,Patna,12,Bihar Roadways,900
+Delhi,Faridabad,2,City Express,150
+Delhi,Aligarh,3,QuickBus,200
+Delhi,Agra,5,Agra Tours,330
+Delhi,Amritsar,8,Golden Bus,680
+Delhi,Jammu,13,Bus Express,950
+Delhi,Haridwar,6,Shree Travels,420
+Delhi,Pune,20,Shiv Shakti Express,1500
+Delhi,Bhopal,11,Bhopal Roadways,850
+Delhi,Surat,16,Diamond Express,1250
+Delhi,Kolkata,22,East Bengal Roadways,1700
+Delhi,Goa,28,Goa Bus Service,2100
+Delhi,Bangalore,19,Karnataka Bus Co.,1580
+Delhi,Indore,10,Indore Travels,810
+Delhi,Chennai,20,Chennai Roadways,1600
+Delhi,Jaipur,7,Rajasthan Travels,520
+Delhi,Chandigarh,5,CityLink Chandigarh,400
+Delhi,Jaipur,8,Rajasthan Road Co.,530
+Delhi,Amritsar,9,Punjab Travels,690
+Delhi,Gurgaon,4,Express Bus Co.,300
+Delhi,Meerut,2,Speedy Roadways,180
+Delhi,Kanpur,12,Kanpur Bus Co.,700
+Delhi,Shimla,6,Himachal Bus Services,620
+Delhi,Dehradun,8,Mountain Express,460
+Delhi,Aligarh,3,Fast Bus Services,250
+Delhi,Mathura,5,Shree Roadways,290
+Delhi,Karnal,7,Karnal Travels,370
+Delhi,Agra,4,Agra Express,310
+Delhi,Nainital,6,Explore India Co.,570
+Delhi,Sonepat,3,Swift Express,220
+Delhi,Jodhpur,11,Rajasthan Tours,780
+Delhi,Gwalior,9,Madhya Pradesh Bus,650
+Delhi,Ludhiana,8,North Punjab Travels,520
+Delhi,Patiala,6,Patiala Express,530
+Delhi,Surat,16,Diamond Express,1200
+Delhi,Chennai,20,Tamil Nadu Bus Co.,1550
+Delhi,Ahmedabad,14,Gupta Transport,1150
+Delhi,Kolkata,23,East Bengal Bus Co.,1700
+Delhi,Pune,18,Shiv Shakti Travels,1400
+Delhi,Indore,11,MP Road Co.,830
+Delhi,Goa,25,Goa Roadways,2000
+Delhi,Nagpur,15,Maharashtra Roadways,1300
+Delhi,Vadodara,14,Gujarat Bus,1150
+Delhi,Haridwar,6,Holy Travels,420
+Delhi,Pondicherry,22,Coastal Roadways,1900
+Delhi,Shillong,20,North East Co.,1800
+Delhi,Rohtak,3,Desi Roadways,210
+Delhi,Nainital,7,Explore Roadways,560
+Delhi,Patiala,8,Patiala Bus Co.,550
+Delhi,Jaipur,5,Rajasthan Express,490
+Delhi,Faridabad,2,CityLink Roadways,150
+Delhi,Aligarh,4,Aligarh Bus Co.,270
+Delhi,Dehradun,7,Mountain Bus Services,450
+Delhi,Chandigarh,5,Chandigarh Roadways,380
+Delhi,Agra,5,AgraBus,320
+Delhi,Mathura,4,Mathura Bus Co.,290
+Delhi,Kolkata,22,East Bengal Co.,1700
+Delhi,Ahmedabad,14,Gupta Transport,1100
+Delhi,Surat,15,Diamond Bus Co.,1250
+Delhi,Lucknow,8,UP Bus Services,600
+Delhi,Goa,25,GoaBus,2000
+Delhi,Bangalore,18,Karnataka Travels,1600
+Delhi,Nagpur,15,Maharashtra Express,1300
+Delhi,Chandigarh,6,Chandigarh Bus Co.,380
+Delhi,Ludhiana,8,Ludhiana Express,510
+Delhi,Surat,16,Diamond Travels,1200
+Delhi,Chennai,20,Tamil Nadu Bus,1550
+Delhi,Indore,10,Indore Transport,800
+Delhi,Jaipur,7,Rajasthan Travels,520
+Delhi,Dehradun,6,Dehradun Express,460
+Delhi,Kolkata,22,East Bengal Express,1700
+Delhi,Varanasi,10,Neelkanth Travels,750
+Delhi,Amritsar,8,Punjab Roadways,700
+Delhi,Chandigarh,5,KPN Travels,350
+Delhi,Bhopal,12,Sharma Travels,800
+Delhi,Rohtak,3,Desi Travels,200
+Delhi,Jaipur,6,SRS Travels,500
+Delhi,Mathura,4,Shree Travels,280
+Delhi,Noida,2,FastTrack,130
+Delhi,Roorkee,6,Tech Bus,360
+Delhi,Bhiwadi,5,Skyline Travels,300
+

@@ -1,0 +1,24 @@
+
+Booking: 
+Source: Delhi
+Destination: Amritsar
+Bus Company: Golden Bus
+Distance: 8 km
+Price: 680
+----------------------------------------
+
+Booking: 
+Source: Delhi
+Destination: Jaipur
+Bus Company: SRS Travels
+Distance: 6 km
+Price: 500
+----------------------------------------
+
+Booking: 
+Source: Delhi
+Destination: Agra
+Bus Company: AgraTours
+Distance: 4 km
+Price: 320
+----------------------------------------

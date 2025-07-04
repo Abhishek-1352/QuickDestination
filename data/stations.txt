@@ -1,0 +1,58 @@
+1,Challaghatta,Purple Line
+2,Pattanagere,Purple Line
+3,Nayandahalli,Purple Line
+4,Attiguppe,Purple Line
+5,KSR City,Purple Line
+6,Vidhana Soudha,Purple Line
+7,Trinity,Purple Line
+8,Indiranagar,Purple Line
+9,Baiyappanahalli,Purple Line
+10,Garudachrpalya,Purple Line
+11,Kndalahalli,Purple Line
+12,Sri Hospital,Purple Line
+13,Channassandra,Purple Line
+14,Whitefield,Purple Line
+15,Bommasandra,Yellow Line
+16,Electronic City,Yellow Line
+17,Singasandra,Yellow Line
+18,Hongasandra,Yellow Line
+19,Ragigudda,Yellow Line
+20,Silk institute,Green Line
+21,Vajarahalli,Green Line
+22,Konanakunte Cross,Green Line
+23,Jayaprakash Nagar,Green Line
+24,jaynagar,Green Line
+25,Laubag,Green Line
+26,National College,Green Line
+27,Chickpete,Green Line
+28,Srirampura,Green Line
+29,Rajajinagar,Green Line
+30,Yeshwantpur,Green Line
+31,Peenya Industry,Green Line
+32,Nagasandra,Green Line
+33,Madavara,Green Line
+34,Kalena Agrahara,Pink Line
+35,IIM Bangalore,Pink Line
+36,Dairy Circle,Pink Line
+37,Langford Town,Pink Line
+38,Shivajinagar,Pink Line
+39,Venkateshpura,Pink Line
+40,HSR Layout,Blue Line
+41,Bellandur,Blue Line
+42,Kadubeesanahalli,Blue Line
+43,ISRO,Blue Line
+44,DRDO Sports Complex,Blue Line
+45,Kasturinagar,Blue Line
+46,HRBR Layout,Blue Line
+47,Hebbal,Blue Line
+48,Jakkur Cross,Blue Line
+49,Bagalur Cross,Blue Line
+50,Airport City,Blue Line
+51,Kempegowda Airport,Blue Line
+52,Kempegowda Station,Interchange Station
+53,Mahatma Gandhi Road,Interchange Station
+54,KR Pura,Interchange Station
+55,Rashtreya Vidyalaya,Interchange Station
+56,Jayadev Hospital,Interchange Station
+57,Central Silk Board,Interchange Station
+58,Nagawara,Interchange Station
