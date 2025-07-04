@@ -127,11 +127,6 @@ Make sure the `data/` folder contains:
 
 ## 📸 Screenshots
 
-### 🔹 Feedback Graphical Analysis
-![Feedback Graph](screenshots/Feedback_GraphicalAnalysis.png)
-
----
-
 ### 🔹 Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 
@@ -144,6 +139,11 @@ Make sure the `data/` folder contains:
 
 ### 🔹 Metro Booking Example
 ![Metro Booking](screenshots/metro_ticket_booking.png)
+
+---
+
+### 🔹 Feedback Graphical Analysis
+![Feedback Graph](screenshots/Feedback_GraphicalAnalysis.png)
 
 ---
 
