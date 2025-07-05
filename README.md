@@ -9,13 +9,13 @@
 
 ## 🎯 Features
 
-- 👤 User Sign Up & Login  
-- 🧾 Metro Ticket Booking using Dijkstra’s Algorithm  
-- 🚌 Bus Reservation History  
-- ❌ Ticket Cancellation  
-- 🗣️ Feedback Submission  
-- 🔐 Admin Dashboard and Password Reset  
-- 💾 Data stored in `.txt` files (CSV-style)
+-  User Sign Up & Login  
+-  Metro Ticket Booking using Dijkstra’s Algorithm  
+-  Bus Reservation History  
+-  Ticket Cancellation  
+-  Feedback Submission  
+-  Admin Dashboard and Password Reset  
+-  Data stored in `.txt` files (CSV-style)
 
 ---
 
